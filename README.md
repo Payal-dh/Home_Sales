@@ -3,6 +3,8 @@
 ## In this challenge, I utilized SparkSQL to extract important metrics from home sales data. Subsequently, I employed Spark to create temporary views, partition the data, cache and uncache a temporary table, and confirm that the table has been successfully uncached. The code I have written provides responses to the following inquiries.
 
 ### 1. What is the average price for a four-bedroom house sold for each year? Round off your answer to two decimal places.
+![4 bedroom](https://user-images.githubusercontent.com/116124181/231047006-11272544-23cd-4071-99d7-5b7b1664c9df.png)
+
 
 ### 2. What is the average price of a home for each year it was built that has three bedrooms and three bathrooms? Round off your answer to two decimal places.
 
